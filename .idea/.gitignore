@@ -1,4 +1,9 @@
 # Default ignored files
+/out/
+/*.class
+*.iml
+.idea/
+*.log
 /shelf/
 /workspace.xml
 # Environment-dependent path to Maven home directory
